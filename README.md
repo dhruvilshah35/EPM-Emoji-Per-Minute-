@@ -2,7 +2,7 @@
 
 IOS app that calculates the emoji typing speed of users. Emojis are fetched from API. It takes default emojis if API or internet is unavailable. 
 
-#Fetaures
+# Fetaures
 
 •	Emoji display from API
 •	Check for Internet  Connection or API
@@ -10,8 +10,12 @@ IOS app that calculates the emoji typing speed of users. Emojis are fetched from
 •	Superior Design
 •	Build with Swift
 
-#Requirements
+# Requirements
 
 • IOS 12
 
-#Screenshots
+# Screenshots
+
+![alt test](Screenshots/1.png)
+
+![alt test](Screenshots/2.png)
